@@ -1,4 +1,4 @@
-House Value Prediction Project README
+House Value Prediction Project 
 Overview:
 This project is aimed at building a web application that predicts house values using three different regression models: Linear Regression, Lasso Regression, and Ridge Regression. The application is deployed using Flask, providing a user-friendly interface for users to input relevant features and obtain predictions for house values.
 
